@@ -1,0 +1,1 @@
+Example of code coverage on a factorial using Eclemma and JaCoCO
